@@ -5,7 +5,7 @@ This is a collection of state-of-the-art research materials (datasets, papers an
 
 Maintainer: **Jiachen Li** (University of California, Berkeley)
 
-Please feel free to send email to **jiachen_li@berkeley.edu** for questions and discussion. You can find my homepage [**here**](https://jiachenli94.github.io).
+Please feel free to send email to **jiachen_li@berkeley.edu** for questions and discussion. My homepage is [**here**](https://jiachenli94.github.io).
 
 ## Datasets
 #### Pedestrains 
