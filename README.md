@@ -5,7 +5,7 @@ This is a collection of state-of-the-art research materials (datasets, papers an
 
 Maintainer: Jiachen Li (University of California, Berkeley)
 
-Please feel free to [contact me](jiachen_li@berkeley.edu) if you have any questions. You can also find my homepage [here](https://jiachenli94.github.io).
+Please feel free to [contact me](mailto:jiachen_li@berkeley.edu) if you have any questions. You can also find my homepage [here](https://jiachenli94.github.io).
 
 ## Datasets
 
