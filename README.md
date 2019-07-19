@@ -60,8 +60,8 @@ A BAIR blog and survey paper is coming soon!
 - Wasserstein generative learning with kinematic constraints for probabilistic interactive driving behavior prediction, IV 2019.
 - Generic probabilistic interactive situation recognition and prediction: From virtual to real, ITSC 2018. \[[paper](https://ieeexplore.ieee.org/abstract/document/8569780)\]
 - Generic vehicle tracking framework capable of handling occlusions based on modified mixture particle filter, IV 2018. \[[paper](https://ieeexplore.ieee.org/abstract/document/8500626)\]
-
 - Multi-Modal Trajectory Prediction of Surrounding Vehicles with Maneuver based LSTMs. \[[paper](https://arxiv.org/abs/1805.05499)\]
+
 - Multipolicy decision-making for autonomous driving via changepoint-based behavior prediction. \[[paper](https://link.springer.com/article/10.1007/s10514-017-9619-z)\]
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, CVPR 2019. \[[paper](https://arxiv.org/pdf/1812.09395.pdf)\]
 - Argoverse: 3D Tracking and Forecasting With Rich Maps, CVPR 2019 \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)\]
@@ -108,6 +108,7 @@ A BAIR blog and survey paper is coming soon!
 #### Pedestrians
 
 - A data-driven model for interaction-aware pedestrian motion prediction in object cluttered environments, ICRA 2018. \[[paper](https://arxiv.org/abs/1709.08528)\]
+
 - Move, Attend and Predict: Anattention-based neural model for people’s movement prediction, 2018 Pattern Recognition Letters \[[paper](https://reader.elsevier.com/reader/sd/pii/S016786551830182X?token=1EF2B664B70D2B0C3ECDD07B6D8B664F5113AEA7533CE5F0B564EF9F4EE90D3CC228CDEB348F79FEB4E8CDCD74D4BA31)\]
 - Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model, CVWW 2019. \[[paper](https://arxiv.org/pdf/1902.05437.pdf)\]
 - GD-GAN: Generative Adversarial Networks for Trajectory Prediction and Group Detection in Crowds, ACCV 2018, \[[paper](https://arxiv.org/pdf/1812.07667.pdf)\], \[[demo](https://www.youtube.com/watch?v=7cCIC_JIfms)\]
