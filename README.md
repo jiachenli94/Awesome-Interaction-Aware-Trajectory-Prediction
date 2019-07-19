@@ -1,7 +1,7 @@
 # Interaction-aware Behavior and Trajectory Prediction
 ![Version](https://img.shields.io/badge/Version-0.1-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.07-lightgrey.svg)![Topic](https://img.shields.io/badge/Topic-behavior(trajectory)--prediction-yellow.svg?logo=github) [![HitCount](http://hits.dwyl.io/jiachenli94/Interaction-aware-Trajectory-Prediction.svg)](http://hits.dwyl.io/jiachenli94/Interaction-aware-Trajectory-Prediction)
 
-This is a checklist of state-of-the-art research materials (datasets, blogs, papers and codes) related to trajectory prediction. Wish it could be helpful for both academia and industry. (Still updating)
+This is a checklist of state-of-the-art research materials (datasets, blogs, papers and public codes) related to trajectory prediction. Wish it could be helpful for both academia and industry. (Still updating)
 
 Maintainer: [**Jiachen Li**](https://jiachenli94.github.io) (UC Berkeley)
 
@@ -198,7 +198,7 @@ A BAIR blog and survey paper is coming soon!
 
 #### Benchmark and Evaluation Metrics
 
-- Towards a fatality-aware benchmark of probabilistic reaction prediction in highly interactive driving scenarios, ITSC 2018.
+- Towards a fatality-aware benchmark of probabilistic reaction prediction in highly interactive driving scenarios, ITSC 2018. \[[paper](https://arxiv.org/abs/1809.03478)\]
 - Trajnet: Towards a benchmark for human trajectory prediction. \[[website](http://trajnet.epfl.ch/)\]
 - How good is my prediction? Finding a similarity measure for trajectory prediction evaluation, ITSC 2017. \[[paper](http://ieeexplore.ieee.org/document/8317825/)\]
 
