@@ -13,8 +13,6 @@ Also welcome to check the current research in our [**MSC Lab**](https://msc.berk
 
 A BAIR blog and a survey paper are coming soon!
 
-[TOC]
-
 ## Datasets
 #### Vehicles and Traffic
 
