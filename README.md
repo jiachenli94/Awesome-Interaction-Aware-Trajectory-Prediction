@@ -3,7 +3,7 @@
 
 This is a checklist of state-of-the-art research materials (datasets, blogs, papers and public codes) related to trajectory prediction. Wish it could be helpful for both academia and industry. (Still updating)
 
-**Maintainers**: [**Jiachen Li**](https://jiachenli94.github.io), Hengbo Ma, Jinning Li (Ph.D. at UC Berkeley)
+**Maintainers**: [**Jiachen Li**](https://jiachenli94.github.io), Hengbo Ma, Jinning Li (University of California, Berkeley)
 
 **Emails**: {jiachen_li, hengbo_ma, jinning_li}@berkeley.edu
 
