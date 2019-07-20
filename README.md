@@ -9,7 +9,7 @@ Please feel free to send emails to **jiachen_li@berkeley.edu** for questions, di
 
 Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
 
-A BAIR blog and survey paper is coming soon!
+A BAIR blog and a survey paper are coming soon!
 
 ## Datasets
 #### Vehicles and Traffic
@@ -50,6 +50,22 @@ A BAIR blog and survey paper is coming soon!
 4. Autonomous vehicles that interact with pedestrians: A survey of theory and practice. \[[paper](https://arxiv.org/abs/1805.11773)\]
 5. A literature review on the prediction of pedestrian behavior in urban scenarios, ITSC 2018. \[[paper](https://ieeexplore.ieee.org/document/8569415)\]
 6. Trajectory data mining: an overview. \[[paper](https://dl.acm.org/citation.cfm?id=2743025)\]
+
+#### Physics Systems with Interaction
+
+1. Neural Relational Inference for Interacting Systems, ICML 2018. \[[paper](https://arxiv.org/abs/1802.04687v2)\] \[[code](https://github.com/ethanfetaya/NRI)\]
+2. Factorised Neural Relational Inference for Multi-Interaction Systems, ICML workshop 2019. \[[paper](https://arxiv.org/abs/1905.08721v1)\] \[[code](https://github.com/ekwebb/fNRI)\]
+3. Relational inductive biases, deep learning, and graph networks, 2018. \[[paper](https://arxiv.org/abs/1806.01261v3)\]
+4. Relational Neural Expectation Maximization: Unsupervised Discovery of Objects and their Interactions, ICLR 2018. \[[paper](http://arxiv.org/abs/1802.10353v1)\]
+5. Graph networks as learnable physics engines for inference and control, ICML 2018. \[[paper](http://arxiv.org/abs/1806.01242v1)\]
+6. Visual Interaction Networks, 2017. \[[paper](http://arxiv.org/abs/1706.01433v1)\]
+7. Unsupervised Learning of Latent Physical Properties Using Perception-Prediction Networks, UAI 2018. \[[paper](http://arxiv.org/abs/1807.09244v2)\]
+8. Physics-as-Inverse-Graphics: Joint Unsupervised Learning of Objects and Physics from Video, 2019. \[[paper](https://arxiv.org/pdf/1905.11169v1.pdf)\]
+9. A Compositional Object-Based Approach to Learning Physical Dynamics, ICLR 2017. \[[paper](http://arxiv.org/abs/1612.00341v2)\]
+10. Interaction Networks for Learning about Objects, Relations and Physics, 2016. \[[paper](https://arxiv.org/abs/1612.00222)\]\[[code](https://github.com/higgsfield/interaction_network_pytorch)\]
+11. Flexible Neural Representation for Physics Prediction, 2018. \[[paper](http://arxiv.org/abs/1806.08047v2)\]
+12. A simple neural network module for relational reasoning, 2017. \[[paper](http://arxiv.org/abs/1706.01427v1)\]
+13. VAIN: Attentional Multi-agent Predictive Modeling, NIPS 2017. \[[paper](https://arxiv.org/pdf/1706.06122.pdf)\]
 
 #### Intelligent Vehicles & Traffic
 
@@ -193,6 +209,13 @@ A BAIR blog and survey paper is coming soon!
 #### Sport Players
 
 1. Generating long-term trajectories using deep hierarchical networks. \[[paper](https://arxiv.org/abs/1706.07138)\]
+2. Diverse Generation for Multi-Agent Sports Games, CVPR 2019. \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yeh_Diverse_Generation_for_Multi-Agent_Sports_Games_CVPR_2019_paper.html)\]
+3. Stochastic Prediction of Multi-Agent Interactions from Partial Observations, ICLR 2019. \[[paper](http://arxiv.org/abs/1902.09641v1)\]
+4. Generative Multi-Agent Behavioral Cloning, ICML 2018. \[[paper](http://www.stephanzheng.com/pdf/Zhan_Zheng_Lucey_Yue_Generative_Multi_Agent_Behavioral_Cloning.pdf)\]
+5. Generating Multi-Agent Trajectories using Programmatic Weak Supervision, ICLR 2019. \[[paper](http://arxiv.org/abs/1803.07612v6)\]
+6. Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders, ECCV 2018. \[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)\]
+7. Coordinated Multi-Agent Imitation Learning, ICML 2017. \[[paper](http://arxiv.org/abs/1703.03121v2)\]
+8. Learning Fine-Grained Spatial Models for Dynamic Sports Play Prediction, ICDM 2014. \[[paper](https://ieeexplore.ieee.org/document/7023384/footnotes#footnotes)\]
 
 #### Benchmark and Evaluation Metrics
 
