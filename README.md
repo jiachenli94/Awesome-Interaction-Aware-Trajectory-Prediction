@@ -13,39 +13,49 @@ Also welcome to check the current research in our [**MSC Lab**](https://msc.berk
 
 A BAIR blog and a survey paper are coming soon!
 
+[TOC]
+
 ## Datasets
 #### Vehicles and Traffic
 
-- [INTERACTION](http://www.interaction-dataset.com/) (newly released by UC Berkeley MSC Lab)
-- [KITTI](http://www.cvlibs.net/datasets/kitti/)
-- [HighD](https://www.highd-dataset.com/)
-- [NGSIM](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm)
-- [Cyclists](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Tsinghua-Daimler_Cyclist_Detec/tsinghua-daimler_cyclist_detec.html)
-- [nuScenes](https://www.nuscenes.org/)
-- [BDD100k](https://bdd-data.berkeley.edu/)
-- [Apolloscapes](http://apolloscape.auto/?source=post_page---------------------------)
-- [Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
-- [Cityscapes](https://www.cityscapes-dataset.com/)
+|                           Dataset                            |            Agents            |         Scenarios         |        Sensors         |
+| :----------------------------------------------------------: | :--------------------------: | :-----------------------: | :--------------------: |
+|      [INTERACTION](http://www.interaction-dataset.com/)      | Vehicles / cyclists/ people  | Roundabout / intersection |     Camera / LiDAR     |
+|        [KITTI](http://www.cvlibs.net/datasets/kitti/)        | Vehicles / cyclists/ people  |   Highway / rural areas   |     Camera / LiDAR     |
+|           [HighD](https://www.highd-dataset.com/)            |           Vehicles           |          Highway          |         Camera         |
+| [NGSIM](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm) |           Vehicles           |          Highway          |         Camera         |
+| [Cyclists](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Tsinghua-Daimler_Cyclist_Detec/tsinghua-daimler_cyclist_detec.html) |           Cyclists           |           Urban           |         Camera         |
+|            [nuScenes](https://www.nuscenes.org/)             |           Vehicles           |           Urban           | Camera / LiDAR / RADAR |
+|          [BDD100k](https://bdd-data.berkeley.edu/)           | Vehicles / cyclists / people |      Highway / urban      |         Camera         |
+| [Apolloscapes](http://apolloscape.auto/?source=post_page---------------------------) | Vehicles / cyclists / people |           Urban           |         Camera         |
+| [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) |           Vehicles           |           Urban           |         Camera         |
+|      [Cityscapes](https://www.cityscapes-dataset.com/)       |       Vehicles/ people       |           Urban           |         Camera         |
+| [Stanford Drone](http://cvgl.stanford.edu/projects/uav_data/) | Vehicles / cyclists/ people  |           Urban           |         Camera         |
+|           [Argoverse](https://www.argoverse.org/)            |      Vehicles / people       |           Urban           |     Camera / LiDAR     |
 
 #### Pedestrians 
 
-* [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)
-* [ETH](http://www.vision.ee.ethz.ch/en/datasets/)
-* [VIRAT](http://www.viratdata.org/)
-* [KITTI](http://www.cvlibs.net/datasets/kitti/)
-* [ATC](https://irc.atr.jp/crest2010_HRI/ATC_dataset/)
-* [Daimler](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/daimler_pedestrian_benchmark_d.html)
-* [Central Station](http://www.ee.cuhk.edu.hk/~xgwang/grandcentral.html)
-* [Town Center](http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html#datasets)
-* [Edinburgh](http://homepages.inf.ed.ac.uk/rbf/FORUMTRACKING/)
-* [Cityscapes](https://www.cityscapes-dataset.com/login/)
-* [Argoverse](https://www.argoverse.org/)
-* [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
-* [TrajNet](http://trajnet.stanford.edu/)
+|                           Dataset                            |           Agents            |       Scenarios       |    Sensors     |
+| :----------------------------------------------------------: | :-------------------------: | :-------------------: | :------------: |
+| [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data) |           People            |    Zara / students    |     Camera     |
+|       [ETH](http://www.vision.ee.ethz.ch/en/datasets/)       |           People            |         Urban         |     Camera     |
+|              [VIRAT](http://www.viratdata.org/)              |      People / vehicles      |         Urban         |     Camera     |
+|        [KITTI](http://www.cvlibs.net/datasets/kitti/)        | Vehicles / cyclists/ people | Highway / rural areas | Camera / LiDAR |
+|     [ATC](https://irc.atr.jp/crest2010_HRI/ATC_dataset/)     |           People            |    Shopping center    |  Range sensor  |
+| [Daimler](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/daimler_pedestrian_benchmark_d.html) |           People            |  From moving vehicle  |     Camera     |
+| [Central Station](http://www.ee.cuhk.edu.hk/~xgwang/grandcentral.html) |           People            |    Inside station     |     Camera     |
+| [Town Center](http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html#datasets) |           People            |     Urban street      |     Camera     |
+| [Edinburgh](http://homepages.inf.ed.ac.uk/rbf/FORUMTRACKING/) |           People            |         Urban         |     Camera     |
+|   [Cityscapes](https://www.cityscapes-dataset.com/login/)    |      Vehicles/ people       |         Urban         |     Camera     |
+|           [Argoverse](https://www.argoverse.org/)            |      Vehicles / people      |         Urban         | Camera / LiDAR |
+| [Stanford Drone](http://cvgl.stanford.edu/projects/uav_data/) | Vehicles / cyclists/ people |         Urban         |     Camera     |
+|           [TrajNet](http://trajnet.stanford.edu/)            |           People            |         Urban         |     Camera     |
 
 #### Sport Players
 
-- [Football](https://datahub.io/collections/football) 
+|                       Dataset                       | Agents |   Scenarios    | Sensors |
+| :-------------------------------------------------: | :----: | :------------: | :-----: |
+| [Football](https://datahub.io/collections/football) | People | Football field | Camera  |
 
 ## Literature and Codes
 
