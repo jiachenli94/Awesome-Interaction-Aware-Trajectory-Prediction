@@ -5,9 +5,9 @@ This is a checklist of state-of-the-art research materials (datasets, blogs, pap
 
 Maintainer: [**Jiachen Li**](https://jiachenli94.github.io), Hengbo Ma, Jinning Li (UC Berkeley)
 
-Please feel free to send emails to us for questions, discussion and collaborations.
-
 Emails: **jiachen_li@berkeley.edu** (Jiachen Li), **hengbo_ma@berkeley.edu** (Hengbo Ma)
+
+Please feel free to send emails to us for questions, discussion and collaborations.
 
 Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
 
