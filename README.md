@@ -3,9 +3,11 @@
 
 This is a checklist of state-of-the-art research materials (datasets, blogs, papers and public codes) related to trajectory prediction. Wish it could be helpful for both academia and industry. (Still updating)
 
-Maintainer: [**Jiachen Li**](https://jiachenli94.github.io) (UC Berkeley)
+Maintainer: [**Jiachen Li**](https://jiachenli94.github.io), Hengbo Ma, Jinning Li (UC Berkeley)
 
-Please feel free to send emails to **jiachen_li@berkeley.edu** for questions, discussion and collaborations.
+Please feel free to send emails to us for questions, discussion and collaborations.
+
+Emails: **jiachen_li@berkeley.edu** (Jiachen Li), **hengbo_ma@berkeley.edu** (Hengbo Ma)
 
 Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
 
@@ -19,6 +21,11 @@ A BAIR blog and a survey paper are coming soon!
 - [HighD](https://www.highd-dataset.com/)
 - [NGSIM](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm)
 - [Cyclists](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Tsinghua-Daimler_Cyclist_Detec/tsinghua-daimler_cyclist_detec.html)
+- [nuScenes](https://www.nuscenes.org/)
+- [BDD100k](https://bdd-data.berkeley.edu/)
+- [Apolloscapes](http://apolloscape.auto/?source=post_page---------------------------)
+- [Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+- [Cityscapes](https://www.cityscapes-dataset.com/)
 
 #### Pedestrians 
 
