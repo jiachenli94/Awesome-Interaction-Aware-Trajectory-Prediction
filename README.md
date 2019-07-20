@@ -7,7 +7,7 @@ This is a checklist of state-of-the-art research materials (datasets, blogs, pap
 
 **Emails**: {jiachen_li, hengbo_ma, jinning_li}@berkeley.edu
 
-Please feel free to send emails to us for questions, discussion and collaborations.
+Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
 
 Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
 
