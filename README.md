@@ -36,7 +36,7 @@ A BAIR blog and a survey paper are coming soon!
 
 |                           Dataset                            |            Agents            |         Scenarios         |        Sensors         |
 | :----------------------------------------------------------: | :--------------------------: | :-----------------------: | :--------------------: |
-|      [INTERACTION](http://www.interaction-dataset.com/)      | Vehicles / cyclists/ people  | Roundabout / intersection |     Camera / LiDAR     |
+|      [INTERACTION](http://www.interaction-dataset.com/)      | Vehicles / cyclists/ people  | Roundabout / intersection |     Camera     |
 |        [KITTI](http://www.cvlibs.net/datasets/kitti/)        | Vehicles / cyclists/ people  |   Highway / rural areas   |     Camera / LiDAR     |
 |           [HighD](https://www.highd-dataset.com/)            |           Vehicles           |          Highway          |         Camera         |
 | [NGSIM](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm) |           Vehicles           |          Highway          |         Camera         |
