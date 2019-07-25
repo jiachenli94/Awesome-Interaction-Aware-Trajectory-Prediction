@@ -243,8 +243,9 @@ A BAIR blog and a survey paper are coming soon!
 4. Generative Multi-Agent Behavioral Cloning, ICML 2018. \[[paper](http://www.stephanzheng.com/pdf/Zhan_Zheng_Lucey_Yue_Generative_Multi_Agent_Behavioral_Cloning.pdf)\]
 5. Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders, ECCV 2018. \[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)\]
 6. Coordinated Multi-Agent Imitation Learning, ICML 2017. \[[paper](http://arxiv.org/abs/1703.03121v2)\]
-7. Generating long-term trajectories using deep hierarchical networks, 2017 \[[paper](https://arxiv.org/abs/1706.07138)\]
+7. Generating long-term trajectories using deep hierarchical networks, 2017. \[[paper](https://arxiv.org/abs/1706.07138)\]
 8. Learning Fine-Grained Spatial Models for Dynamic Sports Play Prediction, ICDM 2014. \[[paper](https://ieeexplore.ieee.org/document/7023384/footnotes#footnotes)\]
+9. Generative Modeling of Multimodal Multi-Human Behavior, 2018. \[[paper](https://arxiv.org/pdf/1803.02015.pdf)\]
 
 ### Benchmark and Evaluation Metrics
 
