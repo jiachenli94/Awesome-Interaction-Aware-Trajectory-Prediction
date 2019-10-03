@@ -48,6 +48,7 @@ A BAIR blog and a survey paper are coming soon!
 |      [Cityscapes](https://www.cityscapes-dataset.com/)       |       Vehicles/ people       |           Urban           |         Camera         |
 | [Stanford Drone](http://cvgl.stanford.edu/projects/uav_data/) | Vehicles / cyclists/ people  |           Urban           |         Camera         |
 |           [Argoverse](https://www.argoverse.org/)            |      Vehicles / people       |           Urban           |     Camera / LiDAR     |
+|           [TRAF](https://gamma.umd.edu/researchdirections/autonomousdriving/trafdataset)            |      Vehicles/buses/cyclists/bikes / people/animals       |           Urban           |     Camera      |
 
 ### Pedestrians
 
@@ -101,7 +102,7 @@ A BAIR blog and a survey paper are coming soon!
 13. Interaction Networks for Learning about Objects, Relations and Physics, 2016. \[[paper](https://arxiv.org/abs/1612.00222)\]\[[code](https://github.com/higgsfield/interaction_network_pytorch)\]
 
 ### Intelligent Vehicles & Traffic
-
+0. TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, CVPR 2019.  \[[paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>)\], \[[code](https://github.com/rohanchandra30/TrackNPred)\]
 1. Conditional generative neural system for probabilistic trajectory prediction, IROS 2019. \[[paper](https://arxiv.org/abs/1905.01631)\]
 2. Interaction-aware multi-agent tracking and probabilistic behavior prediction via adversarial learning, ICRA 2019. \[[paper](https://arxiv.org/abs/1904.02390)\]
 3. Generic Tracking and Probabilistic Prediction Framework and Its Application in Autonomous Driving, IEEE Trans. Intell. Transport. Systems, 2019. \[[paper](https://www.researchgate.net/publication/334560415_Generic_Tracking_and_Probabilistic_Prediction_Framework_and_Its_Application_in_Autonomous_Driving)\]
