@@ -1,5 +1,5 @@
 # Awesome Interaction-aware Behavior and Trajectory Prediction
-![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.07-lightgrey.svg)![Topic](https://img.shields.io/badge/Topic-behavior(trajectory)--prediction-yellow.svg?logo=github) [![HitCount](http://hits.dwyl.io/jiachenli94/Interaction-aware-Trajectory-Prediction.svg)](http://hits.dwyl.io/jiachenli94/Interaction-aware-Trajectory-Prediction)
+![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.10-lightgrey.svg)![Topic](https://img.shields.io/badge/Topic-behavior(trajectory)--prediction-yellow.svg?logo=github) [![HitCount](http://hits.dwyl.io/jiachenli94/Interaction-aware-Trajectory-Prediction.svg)](http://hits.dwyl.io/jiachenli94/Interaction-aware-Trajectory-Prediction)
 
 This is a checklist of state-of-the-art research materials (datasets, blogs, papers and public codes) related to trajectory prediction. Wish it could be helpful for both academia and industry. (Still updating)
 
@@ -12,6 +12,24 @@ Please feel free to pull request to add new resources or send emails to us for q
 Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
 
 A BAIR blog and a survey paper are coming soon!
+
+Please cite our work if you found this useful:
+
+```
+@article{li2019conditional,
+  title={Conditional Generative Neural System for Probabilistic Trajectory Prediction},
+  author={Li, Jiachen and Ma, Hengbo and Tomizuka, Masayoshi},
+  journal={arXiv preprint arXiv:1905.01631},
+  year={2019}
+}
+
+@article{li2019interaction,
+  title={Interaction-aware multi-agent tracking and probabilistic behavior prediction via adversarial learning},
+  author={Li, Jiachen and Ma, Hengbo and Tomizuka, Masayoshi},
+  journal={arXiv preprint arXiv:1904.02390},
+  year={2019}
+}
+```
 
 ### Table of Contents
 
