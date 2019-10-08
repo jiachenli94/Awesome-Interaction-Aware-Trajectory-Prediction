@@ -128,6 +128,7 @@ Please cite our work if you found this useful:
 - Coordination and trajectory prediction for vehicle interactions via bayesian generative modeling, IV 2019. \[[paper](https://arxiv.org/abs/1905.00587)\]
 - Wasserstein generative learning with kinematic constraints for probabilistic interactive driving behavior prediction, IV 2019.
 - AGen: Adaptable Generative Prediction Networks for Autonomous Driving, IV 2019. \[[paper](http://www.cs.cmu.edu/~cliu6/files/iv19-1.pdf)\]
+- TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, CVPR 2019.  \[[paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>)\], \[[code](https://github.com/rohanchandra30/TrackNPred)\]
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, CVPR 2019. \[[paper](https://arxiv.org/pdf/1812.09395.pdf)\]
 - Argoverse: 3D Tracking and Forecasting With Rich Maps, CVPR 2019 \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)\]
 - Robust Aleatoric Modeling for Future Vehicle Localization, CVPR 2019. \[[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Hudnell_Robust_Aleatoric_Modeling_for_Future_Vehicle_Localization_CVPRW_2019_paper.pdf)\]
