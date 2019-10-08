@@ -18,7 +18,6 @@ A BAIR blog and a survey paper are coming soon!
 Please cite our work if you found this useful:
 
 ```
-​```
 @article{li2019conditional,
   title={Conditional Generative Neural System for Probabilistic Trajectory Prediction},
   author={Li, Jiachen and Ma, Hengbo and Tomizuka, Masayoshi},
@@ -32,7 +31,6 @@ Please cite our work if you found this useful:
   journal={arXiv preprint arXiv:1904.02390},
   year={2019}
 }
-​```
 ```
 
 ### Table of Contents
