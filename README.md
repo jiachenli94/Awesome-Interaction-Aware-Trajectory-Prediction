@@ -46,6 +46,7 @@ Please cite our work if you found this useful:
 	- [Intelligent Vehicles & Traffic](#intelligent-vehicles-traffic)
 	- [Mobile Robots](#mobile-robots)
 	- [Pedestrians](#pedestrians)
+	- [Vehicle-Pedestrians Interaction](#vehicle-pedestrians-interaction)
 	- [Sport Players](#sport-players)
 	- [Benchmark and Evaluation Metrics](#benchmark-and-evaluation-metrics)
 	- [Others](#others)
@@ -257,6 +258,9 @@ Please cite our work if you found this useful:
 - Pedestrian path prediction using body language traits, 2014. \[[paper](https://ieeexplore.ieee.org/document/6856498/)\]
 - Online maneuver recognition and multimodal trajectory prediction for intersection assistance using non-parametric regression, 2014. \[[paper](https://ieeexplore.ieee.org/document/6856480)\]
 - Learning intentions for improved human motion prediction, 2013. \[[paper](https://ieeexplore.ieee.org/document/6766565)\]
+
+### Vehicle-Pedestrians Interaction
+
 
 ### Sport Players
 
