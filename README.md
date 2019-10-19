@@ -127,7 +127,8 @@ Please cite our work if you found this useful:
 - Interaction-aware multi-agent tracking and probabilistic behavior prediction via adversarial learning, ICRA 2019. \[[paper](https://arxiv.org/abs/1904.02390)\]
 - Generic Tracking and Probabilistic Prediction Framework and Its Application in Autonomous Driving, IEEE Trans. Intell. Transport. Systems, 2019. \[[paper](https://www.researchgate.net/publication/334560415_Generic_Tracking_and_Probabilistic_Prediction_Framework_and_Its_Application_in_Autonomous_Driving)\]
 - Coordination and trajectory prediction for vehicle interactions via bayesian generative modeling, IV 2019. \[[paper](https://arxiv.org/abs/1905.00587)\]
-- Wasserstein generative learning with kinematic constraints for probabilistic interactive driving behavior prediction, IV 2019.
+- Wasserstein generative learning with kinematic constraints for probabilistic interactive driving behavior prediction, IV 2019. \[[paper](https://ieeexplore.ieee.org/document/8813783)\]
+- GRIP: Graph-based Interaction-aware Trajectory Prediction, ITSC 2019. \[[paper](https://arxiv.org/abs/1907.07792)\]
 - AGen: Adaptable Generative Prediction Networks for Autonomous Driving, IV 2019. \[[paper](http://www.cs.cmu.edu/~cliu6/files/iv19-1.pdf)\]
 - TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, CVPR 2019.  \[[paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>)\], \[[code](https://github.com/rohanchandra30/TrackNPred)\]
 - Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks, CVPR 2019. \[[paper](https://arxiv.org/pdf/1812.09395.pdf)\]
