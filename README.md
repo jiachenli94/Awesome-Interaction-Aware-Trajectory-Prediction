@@ -18,18 +18,20 @@ A BAIR blog and a survey paper are coming soon!
 Please cite our work if you found this useful:
 
 ```
-@article{li2019conditional,
+@inproceedings{Jiachen_IROS19,
   title={Conditional Generative Neural System for Probabilistic Trajectory Prediction},
-  author={Li, Jiachen and Ma, Hengbo and Tomizuka, Masayoshi},
-  journal={arXiv preprint arXiv:1905.01631},
-  year={2019}
+  author={Li, Jiachen and Ma, Hengbo and Zhan, Wei and Tomizuka, Masayoshi},
+  booktitle={in 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2019},
+  organization={IEEE}
 }
 
-@article{li2019interaction,
-  title={Interaction-aware multi-agent tracking and probabilistic behavior prediction via adversarial learning},
+@inproceedings{Jiachen_ICRA19,
+  title={Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning},
   author={Li, Jiachen and Ma, Hengbo and Tomizuka, Masayoshi},
-  journal={arXiv preprint arXiv:1904.02390},
-  year={2019}
+  booktitle={2019 IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2019},
+  organization={IEEE}
 }
 ```
 
