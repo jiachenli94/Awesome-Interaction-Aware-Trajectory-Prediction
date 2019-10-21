@@ -20,7 +20,7 @@ Please cite our work if you found this useful:
 ```
 @inproceedings{Jiachen_IROS19,
   title={Conditional Generative Neural System for Probabilistic Trajectory Prediction},
-  author={Li, Jiachen and Ma, Hengbo and Zhan, Wei and Tomizuka, Masayoshi},
+  author={Li, Jiachen and Ma, Hengbo and Tomizuka, Masayoshi},
   booktitle={in 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2019},
   organization={IEEE}
