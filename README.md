@@ -11,7 +11,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
 
-A BAIR blog and a survey paper are coming soon!
+Please read [this](https://jiachenli94.github.io/Research_Intern_Opportunities_at_UC_Berkeley.pdf) if you want to apply for research intern opportunities in our group.
 
 
 
