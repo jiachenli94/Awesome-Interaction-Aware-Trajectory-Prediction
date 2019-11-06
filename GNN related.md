@@ -1,7 +1,7 @@
 # Graph Networks Related Work
 ### **Survey**
 
-1. A Comprehensive Survey on Graph Neural Networks, 2019. \[[paper](https://arxiv.org/abs/1901.00596)\]
+1. A Comprehensive  Survey on Graph Neural Networks, 2019. \[[paper](https://arxiv.org/abs/1901.00596)\]
 2. Graph Neural Networks: A Review of Methods and Applications, 2019. \[[paper](https://arxiv.org/abs/1812.08434)\]
 
 ### Theory and Models
