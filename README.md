@@ -28,8 +28,8 @@ Please cite our work if you found this useful:
 
 @inproceedings{Jiachen_ICRA19,
   title={Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning},
-  author={Li, Jiachen and Ma, Hengbo and Tomizuka, Masayoshi},
-  booktitle={2019 IEEE International Conference on Robotics and Automation (ICRA)},
+  author={Li, Jiachen* and Ma, Hengbo* and Tomizuka, Masayoshi},
+  booktitle={in 2019 IEEE International Conference on Robotics and Automation (ICRA)},
   year={2019},
   organization={IEEE}
 }
