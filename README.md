@@ -189,6 +189,7 @@ Please cite our work if you found this useful:
 
 ### Mobile Robots
 
+- Path Planning in Dynamic Environments using Generative RNNs and Monte Carlo Tree Search, ICRA 2020. \[[paper](https://arxiv.org/abs/2001.11597)\]
 - Multimodal probabilistic model-based planning for human-robot interaction, ICRA 2018. \[[paper](https://arxiv.org/abs/1710.09483)\]\[[code](https://github.com/StanfordASL/TrafficWeavingCVAE)\]
 - Decentralized Non-communicating Multiagent Collision Avoidance with Deep Reinforcement Learning, ICRA 2017. \[[paper](https://arxiv.org/abs/1609.07845)\]
 - Augmented dictionary learning for motion prediction, ICRA 2016. \[[paper](https://ieeexplore.ieee.org/document/7487407)\]
