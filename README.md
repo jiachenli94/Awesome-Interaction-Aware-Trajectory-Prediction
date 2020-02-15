@@ -1,5 +1,5 @@
 # Awesome Interaction-aware Behavior and Trajectory Prediction
-![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2020.02-lightgrey.svg)![Topic](https://img.shields.io/badge/Topic-behavior(trajectory)--prediction-yellow.svg?logo=github)
+![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.11-lightgrey.svg)![Topic](https://img.shields.io/badge/Topic-behavior(trajectory)--prediction-yellow.svg?logo=github)
 
 This is a checklist of state-of-the-art research materials (datasets, blogs, papers and public codes) related to trajectory prediction. Wish it could be helpful for both academia and industry. (Still updating)
 
@@ -97,9 +97,11 @@ Please cite our work if you found this useful:
 
 ### Sport Players
 
-|                       Dataset                       | Agents |   Scenarios    | Sensors |
-| :-------------------------------------------------: | :----: | :------------: | :-----: |
-| [Football](https://datahub.io/collections/football) | People | Football field | Camera  |
+|                           Dataset                            | Agents |     Scenarios     | Sensors |
+| :----------------------------------------------------------: | :----: | :---------------: | :-----: |
+|     [Football](https://datahub.io/collections/football)      | People |  Football field   | Camera  |
+| [NBA SportVU](https://github.com/linouk23/NBA-Player-Movements) | People |  Basketball Hall  | Camera  |
+|      [NFL](https://github.com/a-vhadgar/Big-Data-Bowl)       | People | American Football | Camera  |
 
 ## **Literature and Codes**
 
@@ -189,7 +191,6 @@ Please cite our work if you found this useful:
 
 ### Mobile Robots
 
-- Path Planning in Dynamic Environments using Generative RNNs and Monte Carlo Tree Search, ICRA 2020. \[[paper](https://arxiv.org/abs/2001.11597)\]
 - Multimodal probabilistic model-based planning for human-robot interaction, ICRA 2018. \[[paper](https://arxiv.org/abs/1710.09483)\]\[[code](https://github.com/StanfordASL/TrafficWeavingCVAE)\]
 - Decentralized Non-communicating Multiagent Collision Avoidance with Deep Reinforcement Learning, ICRA 2017. \[[paper](https://arxiv.org/abs/1609.07845)\]
 - Augmented dictionary learning for motion prediction, ICRA 2016. \[[paper](https://ieeexplore.ieee.org/document/7487407)\]
@@ -299,8 +300,9 @@ Please cite our work if you found this useful:
 - Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders, ECCV 2018. \[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)\]
 - Coordinated Multi-Agent Imitation Learning, ICML 2017. \[[paper](http://arxiv.org/abs/1703.03121v2)\]
 - Generating long-term trajectories using deep hierarchical networks, 2017. \[[paper](https://arxiv.org/abs/1706.07138)\]
-- Learning Fine-Grained Spatial Models for Dynamic Sports Play Prediction, ICDM 2014. \[[paper](https://ieeexplore.ieee.org/document/7023384/footnotes#footnotes)\]
+- Learning Fine-Grained Spatial Models for Dynamic Sports Play Prediction, ICDM 2014. \[[paper](http://www.yisongyue.com/publications/icdm2014_bball_predict.pdf)]
 - Generative Modeling of Multimodal Multi-Human Behavior, 2018. \[[paper](https://arxiv.org/pdf/1803.02015.pdf)\]
+- What will Happen Next? Forecasting Player Moves in Sports Videos, ICCV 2017, \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf)\]
 
 ### Benchmark and Evaluation Metrics
 
