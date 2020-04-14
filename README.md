@@ -203,8 +203,9 @@ Please cite our work if you found this useful:
 
 ### Pedestrians
 
-- EvolveGraph: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction with Evolving Interaction Graphs, 2019. \[[paper](https://arxiv.org/abs/2003.13924)\]
-- Social-WaGDAT: Interaction-aware Trajectory Prediction via Wasserstein Graph Double-Attention Network, 2019. \[[paper](https://arxiv.org/abs/2002.06241)\]
+- Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision, WACV 2020. \[[paper](https://arxiv.org/abs/1911.01138)\]
+- EvolveGraph: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction with Evolving Interaction Graphs, 2020. \[[paper](https://arxiv.org/abs/2003.13924)\]
+- Social-WaGDAT: Interaction-aware Trajectory Prediction via Wasserstein Graph Double-Attention Network, 2020. \[[paper](https://arxiv.org/abs/2002.06241)\]
 - Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction, CVPR 2020. \[[Paper](<https://arxiv.org/pdf/2002.11927.pdf>)\], \[[Code](<https://github.com/abduallahmohamed/Social-STGCNN/>)\]
 - The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, CVPR 2020. \[[paper](https://arxiv.org/pdf/1912.06445.pdf)\], \[[code/dataset](https://next.cs.cmu.edu/multiverse/index.html)\]
 - Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision, WACV 2020. \[[paper](https://arxiv.org/abs/1911.01138)\]
@@ -241,6 +242,7 @@ Please cite our work if you found this useful:
 - Pedestrian prediction by planning using deep neural networks, ICRA 2018. \[[paper](https://arxiv.org/abs/1706.05904)\]
 - Joint long-term prediction of human motion using a planning-based social force approach, ICRA 2018. \[[paper](https://iliad-project.eu/publications/2018-2/joint-long-term-prediction-of-human-motion-using-a-planning-based-social-force-approach/)\]
 - Human motion prediction under social grouping constraints, IROS 2018. \[[paper](http://iliad-project.eu/publications/2018-2/human-motion-prediction-under-social-grouping-constraints/)\]
+- Future Person Localization in First-Person Videos, CVPR 2018. \[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yagi_Future_Person_Localization_CVPR_2018_paper.pdf)\]
 - Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, CVPR 2018. \[[paper](https://arxiv.org/abs/1803.10892)\]\[[code](https://github.com/agrimgupta92/sgan)\]
 - Group LSTM: Group Trajectory Prediction in Crowded Scenarios, ECCV 2018. \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-11015-4_18)\]
 - Mx-lstm: mixing tracklets and vislets to jointly forecast trajectories and head poses, CVPR 2018. \[[paper](https://arxiv.org/abs/1805.00652)\]
