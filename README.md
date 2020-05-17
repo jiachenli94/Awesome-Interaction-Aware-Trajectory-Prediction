@@ -9,8 +9,6 @@ This is a checklist of state-of-the-art research materials (datasets, blogs, pap
 
 Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
 
-Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
-
 **Research Intern**: Please read [**this**](https://jiachenli94.github.io/Research_Intern_Opportunities_at_UC_Berkeley.pdf) if you want to apply for research intern opportunities in our group.
 
 **Note**: [**Here**](https://github.com/jiachenli94/Awesome-Decision-Making-Reinforcement-Learning) is also a collection of materials for reinforcement learning, decision making and motion planning.
