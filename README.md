@@ -47,7 +47,7 @@ Please cite our work if you found this useful:
 	- [Physics Systems with Interaction](#physics-systems-with-interaction)
 	- [Intelligent Vehicles & Traffic](#intelligent-vehicles-traffic)
 	- [Mobile Robots](#mobile-robots)
-	- [Pedestrians](#pedestrians)
+	- [Pedestrians](#pedestrians-1)
 	- [Vehicle-Pedestrians Interaction](#vehicle-pedestrians-interaction)
 	- [Sport Players](#sport-players)
 	- [Benchmark and Evaluation Metrics](#benchmark-and-evaluation-metrics)
