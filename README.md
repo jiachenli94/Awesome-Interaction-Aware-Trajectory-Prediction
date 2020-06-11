@@ -15,7 +15,7 @@ Please feel free to pull request to add new resources or send emails to us for q
 
 
 
-Please cite our work if you found this useful:
+Please consider citing our work if you found this repo useful:
 
 ```
 @inproceedings{Jiachen_IROS19,
