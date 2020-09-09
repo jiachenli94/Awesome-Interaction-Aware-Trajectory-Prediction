@@ -91,7 +91,7 @@ Please consider citing our work if you found this repo useful:
 |           [TrajNet](http://trajnet.stanford.edu/)            |           People            |         Urban         |     Camera     |
 |           [PIE](http://data.nvision2.eecs.yorku.ca/PIE_dataset/)            |           People            |         Urban         |     Camera     |
 |           [ForkingPaths](https://next.cs.cmu.edu/multiverse/index.html)            |           People            |         Urban / Simulation         |     Camera     |
-
+|           [TrajNet++](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge)            |           People            |         Urban         |     Camera     |
 ### Sport Players
 
 |                           Dataset                            | Agents |     Scenarios     | Sensors |
@@ -199,6 +199,7 @@ Please consider citing our work if you found this repo useful:
 
 ### Pedestrians
 
+- Human Trajectory Forecasting in Crowds: A Deep Learning Perspective, 2020. \[[paper](https://arxiv.org/pdf/2007.03639.pdf)\], \[[code](https://github.com/vita-epfl/trajnetplusplusbaselines)\]
 - SimAug: Learning Robust Representations from 3D Simulation for Pedestrian Trajectory Prediction in Unseen Cameras, ECCV 2020. \[[paper](https://arxiv.org/pdf/2004.02022)\], \[[code](https://github.com/JunweiLiang/Multiverse)\]
 - DAG-Net: Double Attentive Graph Neural Network for Trajectory Forecasting, ICPR 2020. \[[paper](https://arxiv.org/abs/2005.12661)\] \[[code](https://github.com/alexmonti19/dagnet)\]
 - Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision, WACV 2020. \[[paper](https://arxiv.org/abs/1911.01138)\]
@@ -217,7 +218,7 @@ Please consider citing our work if you found this repo useful:
 - Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model, CVWW 2019. \[[paper](https://arxiv.org/pdf/1902.05437.pdf)\]
 - Path predictions using object attributes and semantic environment, VISIGRAPP 2019. \[[paper](http://mprg.jp/data/MPRG/C_group/C20190225_minoura.pdf)\]
 - Probabilistic Path Planning using Obstacle Trajectory Prediction, CoDS-COMAD 2019. \[[paper](https://dl.acm.org/citation.cfm?id=3297006)\]
-- Human Trajectory Prediction using Adversarial Loss, 2019. \[[paper](http://www.strc.ch/2019/Kothari_Alahi.pdf)\]
+- Human Trajectory Prediction using Adversarial Loss, hEART 2019. \[[paper](http://www.strc.ch/2019/Kothari_Alahi.pdf)\], \[[code](https://github.com/vita-epfl/AdversarialLoss-SGAN)\]
 - Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories with GANs, CVPR 2019. \[[*Precognition Workshop*](https://sites.google.com/view/ieeecvf-cvpr2019-precognition)\], \[[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf)\], \[[code](<https://github.com/amiryanj/socialways>)\]
 - Peeking into the Future: Predicting Future Person Activities and Locations in Videos, CVPR 2019. \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf)\], \[[code](https://github.com/google/next-prediction)\]
 - Learning to Infer Relations for Future Trajectory Forecast, CVPR 2019. \[[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Choi_Learning_to_Infer_Relations_for_Future_Trajectory_Forecast_CVPRW_2019_paper.pdf)\]
@@ -267,7 +268,7 @@ Please consider citing our work if you found this repo useful:
 - Human Trajectory Prediction using Spatially aware Deep Attention Models, 2017. [[paper](https://arxiv.org/pdf/1705.09436.pdf)\]
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, 2017. \[[paper](https://arxiv.org/pdf/1702.05552.pdf)\]
 - Forecasting Interactive Dynamics of Pedestrians with Fictitious Play, CVPR 2017. \[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf)\]
-- Social LSTM: Human trajectory prediction in crowded spaces, CVPR 2016. \[[paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html)\]\[[code](https://github.com/quancore/social-lstm)\]
+- Social LSTM: Human trajectory prediction in crowded spaces, CVPR 2016. \[[paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html)\]\[[code](https://github.com/vita-epfl/trajnetplusplusbaselines)\]
 - Comparison and evaluation of pedestrian motion models for vehicle safety systems, ITSC 2016. \[[paper](https://ieeexplore.ieee.org/document/7795912)\]
 - Age and Group-driven Pedestrian Behaviour: from Observations to Simulations, 2016. \[[paper](https://collective-dynamics.eu/index.php/cod/article/view/A3)\]
 - Structural-RNN: Deep learning on spatio-temporal graphs, CVPR 2016. \[[paper](https://arxiv.org/abs/1511.05298)\]\[[code](https://github.com/asheshjain399/RNNexp)\]
