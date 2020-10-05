@@ -16,18 +16,18 @@ Please feel free to pull request to add new resources or send emails to us for q
 Please consider citing our work if you found this repo useful:
 
 ```
-@inproceedings{Jiachen_IROS19,
-  title={Conditional Generative Neural System for Probabilistic Trajectory Prediction},
-  author={Li, Jiachen and Ma, Hengbo and Tomizuka, Masayoshi},
-  booktitle={in 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year={2019},
-  organization={IEEE}
+@inproceedings{li2020Evolvegraph,
+  title={EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning},
+  author={Li, Jiachen and Yang, Fan and Tomizuka, Masayoshi and Choi, Chiho},
+  booktitle={2020 Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2020}
 }
 
-@inproceedings{Jiachen_ICRA19,
-  title={Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning},
-  author={Li, Jiachen* and Ma, Hengbo* and Tomizuka, Masayoshi},
-  booktitle={in 2019 IEEE International Conference on Robotics and Automation (ICRA)},
+@inproceedings{li2019conditional,
+  title={Conditional Generative Neural System for Probabilistic Trajectory Prediction},
+  author={Li, Jiachen and Ma, Hengbo and Tomizuka, Masayoshi},
+  booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={6150--6156},
   year={2019},
   organization={IEEE}
 }
