@@ -196,6 +196,7 @@ Please consider citing our work if you found this repo useful:
 
 ### Pedestrians
 
+- Social NCE: Contrastive Learning of Socially-aware Motion Representations. \[[paper](https://arxiv.org/abs/2012.11717)\], \[[code](https://github.com/vita-epfl/social-nce)\]
 - EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning, NeurIPS 2020. \[[paper](https://arxiv.org/abs/2003.13924)\]
 - Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/abs/2005.08514)]
 - It is not the Journey but the Destination- Endpoint Conditioned Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/abs/2004.02025)]
@@ -300,6 +301,7 @@ Please consider citing our work if you found this repo useful:
 
 ### Mobile Robots
 
+- Social NCE: Contrastive Learning of Socially-aware Motion Representations. \[[paper](https://arxiv.org/abs/2012.11717)\], \[[code](https://github.com/vita-epfl/social-nce)\]
 - Multimodal probabilistic model-based planning for human-robot interaction, ICRA 2018. \[[paper](https://arxiv.org/abs/1710.09483)\]\[[code](https://github.com/StanfordASL/TrafficWeavingCVAE)\]
 - Decentralized Non-communicating Multiagent Collision Avoidance with Deep Reinforcement Learning, ICRA 2017. \[[paper](https://arxiv.org/abs/1609.07845)\]
 - Augmented dictionary learning for motion prediction, ICRA 2016. \[[paper](https://ieeexplore.ieee.org/document/7487407)\]
