@@ -196,6 +196,7 @@ Please consider citing our work if you found this repo useful:
 
 ### Pedestrians
 
+- Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes, IEEE Robotics and Automation Letters 2021 \[[paper](https://ieeexplore.ieee.org/abstract/document/9309332)\], \[[code](https://github.com/tdavchev/structured-trajectory-prediction)\]
 - Social NCE: Contrastive Learning of Socially-aware Motion Representations. \[[paper](https://arxiv.org/abs/2012.11717)\], \[[code](https://github.com/vita-epfl/social-nce)\]
 - EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning, NeurIPS 2020. \[[paper](https://arxiv.org/abs/2003.13924)\]
 - Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/abs/2005.08514)]
