@@ -301,7 +301,7 @@ Please consider citing our work if you found this repo useful:
 - Learning intentions for improved human motion prediction, 2013. \[[paper](https://ieeexplore.ieee.org/document/6766565)\]
 
 ### Mobile Robots
-
+- Anticipatory Navigation in Crowds by Probabilistic Prediction of Pedestrian Future Movements, ICRA 2021. \[[paper](https://arxiv.org/abs/2011.06235)\]
 - Social NCE: Contrastive Learning of Socially-aware Motion Representations. \[[paper](https://arxiv.org/abs/2012.11717)\], \[[code](https://github.com/vita-epfl/social-nce)\]
 - Multimodal probabilistic model-based planning for human-robot interaction, ICRA 2018. \[[paper](https://arxiv.org/abs/1710.09483)\]\[[code](https://github.com/StanfordASL/TrafficWeavingCVAE)\]
 - Decentralized Non-communicating Multiagent Collision Avoidance with Deep Reinforcement Learning, ICRA 2017. \[[paper](https://arxiv.org/abs/1609.07845)\]
