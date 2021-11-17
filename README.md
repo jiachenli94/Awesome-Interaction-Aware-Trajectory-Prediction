@@ -137,6 +137,7 @@ Please consider citing our work if you found this repo useful:
 - Learning Lane Graph Representations for Motion Forecasting, ECCV 2020. [[paper](https://arxiv.org/abs/2007.13732)]
 - Implicit Latent Variable Model for Scene-Consistent Motion Forecasting, ECCV 2020. [[paper](https://arxiv.org/abs/2007.12036)]
 - Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding, ECCV 2020. [[paper](https://arxiv.org/abs/2003.03212)]
+- Semantic Synthesis of Pedestrian Locomotion, ACCV 2020. [[Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Priisalu_Semantic_Synthesis_of_Pedestrian_Locomotion_ACCV_2020_paper.html)]
 - Kernel Trajectory Maps for Multi-Modal Probabilistic Motion Prediction, CoRL 2019. \[[paper](https://arxiv.org/abs/1907.05127)\] \[[code](https://github.com/wzhi/KernelTrajectoryMaps)\]
 - Social-WaGDAT: Interaction-aware Trajectory Prediction via Wasserstein Graph Double-Attention Network, 2020. \[[paper](https://arxiv.org/abs/2002.06241)\]
 - Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, 2019. \[[paper](https://arxiv.org/pdf/1912.01118.pdf)\] \[[code](https://gamma.umd.edu/researchdirections/autonomousdriving/spectralcows/)\]
