@@ -70,6 +70,7 @@ Please consider citing our work if you found this repo useful:
 |           [Argoverse](https://www.argoverse.org/)            |      Vehicles / people       |           Urban           |     Camera / LiDAR     |
 | [TRAF](https://gamma.umd.edu/researchdirections/autonomousdriving/trafdataset)            |      Vehicles/buses/cyclists/bikes / people/animals       |           Urban           |     Camera      |
 |[Lyft Level 5](https://level5.lyft.com/dataset/)               | Vehicles/cyclists/people     | Urban                     | Camera/ LiDAR   |
+|[Aschaffenburg Pose Dataset](https://doi.org/10.5281/zenodo.5724486)               |    Cyclists/people     |           Urban           |         Camera         |
 
 ### Pedestrians
 
@@ -91,6 +92,7 @@ Please consider citing our work if you found this repo useful:
 |           [PIE](http://data.nvision2.eecs.yorku.ca/PIE_dataset/)            |           People            |         Urban         |     Camera     |
 |           [ForkingPaths](https://next.cs.cmu.edu/multiverse/index.html)            |           People            |         Urban / Simulation         |     Camera     |
 |           [TrajNet++](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge)            |           People            |         Urban         |     Camera     |
+|[Aschaffenburg Pose Dataset](https://doi.org/10.5281/zenodo.5724486)               |    Cyclists/people     |           Urban           |         Camera         |
 ### Sport Players
 
 |                           Dataset                            | Agents |     Scenarios     | Sensors |
