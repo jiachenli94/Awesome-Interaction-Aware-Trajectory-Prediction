@@ -70,6 +70,7 @@ Please consider citing our work if you found this repo useful:
 |           [Argoverse](https://www.argoverse.org/)            |      Vehicles / people       |           Urban           |     Camera / LiDAR     |
 | [TRAF](https://gamma.umd.edu/researchdirections/autonomousdriving/trafdataset)            |      Vehicles/buses/cyclists/bikes / people/animals       |           Urban           |     Camera      |
 |[Lyft Level 5](https://level5.lyft.com/dataset/)               | Vehicles/cyclists/people     | Urban                     | Camera/ LiDAR   |
+|[Aschaffenburg Pose Dataset](https://doi.org/10.5281/zenodo.5724486)               |    Cyclists/people     |           Urban           |         Camera         |
 
 ### Pedestrians
 
@@ -91,6 +92,7 @@ Please consider citing our work if you found this repo useful:
 |           [PIE](http://data.nvision2.eecs.yorku.ca/PIE_dataset/)            |           People            |         Urban         |     Camera     |
 |           [ForkingPaths](https://next.cs.cmu.edu/multiverse/index.html)            |           People            |         Urban / Simulation         |     Camera     |
 |           [TrajNet++](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge)            |           People            |         Urban         |     Camera     |
+|[Aschaffenburg Pose Dataset](https://doi.org/10.5281/zenodo.5724486)               |    Cyclists/people     |           Urban           |         Camera         |
 ### Sport Players
 
 |                           Dataset                            | Agents |     Scenarios     | Sensors |
@@ -196,9 +198,11 @@ Please consider citing our work if you found this repo useful:
 - Mobile agent trajectory prediction using bayesian nonparametric reachability trees, 2011. \[[paper](https://dspace.mit.edu/handle/1721.1/114899)\]
 
 ### Pedestrians
+- Pose and Semantic Map Based Probabilistic Forecast of Vulnerable Road Users’ Trajectories, 2021. \[[paper](https://arxiv.org/abs/2106.02598)\]
 - Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs, ICCV 2021 The ROAD Challenge Workshop. \[[paper](https://arxiv.org/pdf/2109.10257.pdf)\], \[[code](https://github.com/abduallahmohamed/Skeleton-Graph)\]
 - Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes, IEEE Robotics and Automation Letters 2021 \[[paper](https://ieeexplore.ieee.org/abstract/document/9309332)\], \[[code](https://github.com/tdavchev/structured-trajectory-prediction)\]
 - Social NCE: Contrastive Learning of Socially-aware Motion Representations. \[[paper](https://arxiv.org/abs/2012.11717)\], \[[code](https://github.com/vita-epfl/social-nce)\]
+- Pose Based Trajectory Forecast of Vulnerable Road Users Using Recurrent Neural Networks, ICPR International Workshops and Challenges 2020. \[[paper](https://www.springerprofessional.de/pose-based-trajectory-forecast-of-vulnerable-road-users-using-re/18885576)\]
 - EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning, NeurIPS 2020. \[[paper](https://arxiv.org/abs/2003.13924)\]
 - Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/abs/2005.08514)]
 - It is not the Journey but the Destination- Endpoint Conditioned Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/abs/2004.02025)]
@@ -212,6 +216,7 @@ Please consider citing our work if you found this repo useful:
 - Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction, CVPR 2020. \[[Paper](<https://arxiv.org/pdf/2002.11927.pdf>)\], \[[Code](<https://github.com/abduallahmohamed/Social-STGCNN/>)\]
 - The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, CVPR 2020. \[[paper](https://arxiv.org/pdf/1912.06445.pdf)\], \[[code/dataset](https://next.cs.cmu.edu/multiverse/index.html)\]
 - Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision, WACV 2020. \[[paper](https://arxiv.org/abs/1911.01138)\]
+- Pose Based Trajectory Forecast of Vulnerable Road Users, SSCI 2019. \[[paper](https://ieeexplore.ieee.org/document/9003023)\]
 - The Trajectron: Probabilistic Multi-Agent Trajectory Modeling With Dynamic Spatiotemporal Graphs, ICCV 2019. \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ivanovic_The_Trajectron_Probabilistic_Multi-Agent_Trajectory_Modeling_With_Dynamic_Spatiotemporal_Graphs_ICCV_2019_paper.pdf)\] \[[code](https://github.com/StanfordASL/Trajectron)\]
 - STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction, ICCV 2019. \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)\] \[[code](https://github.com/huang-xx/STGAT)\]
 - Instance-Level Future Motion Estimation in a Single Image Based on Ordinal Regression, ICCV 2019. \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Instance-Level_Future_Motion_Estimation_in_a_Single_Image_Based_on_ICCV_2019_paper.pdf)\]
@@ -338,6 +343,7 @@ Please consider citing our work if you found this repo useful:
 
 ### Others
 
+- Pose Based Start Intention Detection of Cyclists, ITSC 2019. \[[paper](https://ieeexplore.ieee.org/abstract/document/8917215)\]
 - Cyclist trajectory prediction using bidirectional recurrent neural networks, AI 2018. \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-03991-2_28)\]
 - Road infrastructure indicators for trajectory prediction, 2018. \[[paper](https://ieeexplore.ieee.org/document/8500678)\]
 - Using road topology to improve cyclist path prediction, 2017. \[[paper](https://ieeexplore.ieee.org/document/7995734/)\]
