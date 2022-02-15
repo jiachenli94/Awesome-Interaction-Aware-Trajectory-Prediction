@@ -77,7 +77,7 @@ Please consider citing our work if you found this repo useful:
 |                           Dataset                            |           Agents            |       Scenarios       |    Sensors     |
 | :----------------------------------------------------------: | :-------------------------: | :-------------------: | :------------: |
 | [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data) |           People            |    Zara / students    |     Camera     |
-|       [ETH](http://www.vision.ee.ethz.ch/en/datasets/)       |           People            |         Urban         |     Camera     |
+|       [ETH (ICCV09)](https://icu.ee.ethz.ch/research/datsets.html)       |           People            |         Urban         |     Camera     |
 |              [VIRAT](http://www.viratdata.org/)              |      People / vehicles      |         Urban         |     Camera     |
 |        [KITTI](http://www.cvlibs.net/datasets/kitti/)        | Vehicles / cyclists/ people | Highway / rural areas | Camera / LiDAR |
 |     [ATC](https://irc.atr.jp/crest2010_HRI/ATC_dataset/)     |           People            |    Shopping center    |  Range sensor  |
