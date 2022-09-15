@@ -334,6 +334,7 @@ Please consider citing our work if you found this repo useful:
 - What will Happen Next? Forecasting Player Moves in Sports Videos, ICCV 2017, \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf)\]
 
 ### Benchmark and Evaluation Metrics
+- Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. \[[paper](https://arxiv.org/abs/2203.03057)] \[[code](https://github.com/abduallahmohamed/Social-Implicit)]
 - OpenTraj: Assessing Prediction Complexity in Human Trajectories Datasets, ACCV 2020. \[[paper](https://arxiv.org/abs/2010.00890)] \[[code](https://github.com/crowdbotp/OpenTraj)]
 - Testing the Safety of Self-driving Vehicles by Simulating Perception and Prediction, ECCV 2020. [[paper](https://arxiv.org/abs/2008.06020)]
 - PIE: A Large-Scale Dataset and Models for Pedestrian Intention Estimation and Trajectory Prediction, ICCV 2019. \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf)\]
