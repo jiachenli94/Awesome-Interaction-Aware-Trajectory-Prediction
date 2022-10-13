@@ -198,6 +198,7 @@ Please consider citing our work if you found this repo useful:
 - Mobile agent trajectory prediction using bayesian nonparametric reachability trees, 2011. \[[paper](https://dspace.mit.edu/handle/1721.1/114899)\]
 
 ### Pedestrians
+- How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting, CVPR 2022, \[[Paper](https://arxiv.org/abs/2203.04781)\]
 - Pose and Semantic Map Based Probabilistic Forecast of Vulnerable Road Users’ Trajectories, 2021. \[[paper](https://arxiv.org/abs/2106.02598)\]
 - Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs, ICCV 2021 The ROAD Challenge Workshop. \[[paper](https://arxiv.org/pdf/2109.10257.pdf)\], \[[code](https://github.com/abduallahmohamed/Skeleton-Graph)\]
 - Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes, IEEE Robotics and Automation Letters 2021 \[[paper](https://ieeexplore.ieee.org/abstract/document/9309332)\], \[[code](https://github.com/tdavchev/structured-trajectory-prediction)\]
