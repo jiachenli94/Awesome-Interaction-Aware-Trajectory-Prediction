@@ -132,6 +132,7 @@ Please consider citing our work if you found this repo useful:
 - Interaction Networks for Learning about Objects, Relations and Physics, 2016. \[[paper](https://arxiv.org/abs/1612.00222)\]\[[code](https://github.com/higgsfield/interaction_network_pytorch)\]
 
 ### Intelligent Vehicles & Traffic
+- MPA: MultiPath++ Based Architecture for Motion Prediction, CVPR Workshop on Autonomous Driving 2022. \[[paper](https://arxiv.org/abs/2206.10041)\] \[[code](https://github.com/stepankonev/waymo-motion-prediction-challenge-2022-multipath-plus-plus)\]
 - EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning, NeurIPS 2020. \[[paper](https://arxiv.org/abs/2003.13924)\]
 - V2VNet- Vehicle-to-Vehicle Communication for Joint Perception and Prediction, ECCV 2020. [[paper](https://arxiv.org/abs/2008.07519)]
 - SMART- Simultaneous Multi-Agent Recurrent Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/abs/2007.13078)]
