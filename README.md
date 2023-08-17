@@ -36,20 +36,21 @@ Please consider citing our work if you found this repo useful:
 ### Table of Contents
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-- [**Datasets**](#datasets)
-	- [Vehicles and Traffic](#vehicles-and-traffic)
-	- [Pedestrians](#pedestrians)
-	- [Sport Players](#sport-players)
-- [**Literature and Codes**](#literature-and-codes)
-	- [Survey Papers](#survey-papers)
-	- [Physics Systems with Interaction](#physics-systems-with-interaction)
-	- [Intelligent Vehicles & Traffic](#intelligent-vehicles-traffic)
-	- [Pedestrians](#pedestrians-1)
-	- [Mobile Robots](#mobile-robots)
-	- [Sport Players](#sport-players)
-	- [Benchmark and Evaluation Metrics](#benchmark-and-evaluation-metrics)
-	- [Others](#others)
-	<!-- /TOC -->
+- [Awesome Interaction-aware Behavior and Trajectory Prediction](#awesome-interaction-aware-behavior-and-trajectory-prediction)
+		- [Table of Contents](#table-of-contents)
+	- [**Datasets**](#datasets)
+		- [Vehicles and Traffic](#vehicles-and-traffic)
+		- [Pedestrians](#pedestrians)
+		- [Sport Players](#sport-players)
+	- [**Literature and Codes**](#literature-and-codes)
+		- [Survey Papers](#survey-papers)
+		- [Physics Systems with Interaction](#physics-systems-with-interaction)
+		- [Intelligent Vehicles \& Traffic](#intelligent-vehicles--traffic)
+		- [Pedestrians](#pedestrians-1)
+		- [Mobile Robots](#mobile-robots)
+		- [Sport Players](#sport-players-1)
+		- [Benchmark and Evaluation Metrics](#benchmark-and-evaluation-metrics)
+		- [Others](#others)
 
 ## **Datasets**
 ### Vehicles and Traffic
@@ -104,8 +105,8 @@ Please consider citing our work if you found this repo useful:
 ## **Literature and Codes**
 
 ### Survey Papers
-
-- Modeling and Prediction of Human Driver Behavior: A Survey, 2020. [[paper](https://arxiv.org/abs/2006.08832)]
+- Multimodal Trajectory Prediction: A Survey,2023. \[ [paper](https://arxiv.org/abs/2302.10463)\]
+- Modeling and Prediction of Human Driver Behavior: A Survey, 2020. \[[paper](https://arxiv.org/abs/2006.08832)\]
 - Human Motion Trajectory Prediction: A Survey, 2019. \[[paper](https://arxiv.org/abs/1905.06113)\]
 - A literature review on the prediction of pedestrian behavior in urban scenarios, ITSC 2018. \[[paper](https://ieeexplore.ieee.org/document/8569415)\]
 - Survey on Vision-Based Path Prediction. \[[paper](https://link.springer.com/chapter/10.1007/978-3-319-91131-1_4)\]
