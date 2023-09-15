@@ -43,7 +43,7 @@ Please consider citing our work if you found this repo useful:
 - [**Literature and Codes**](#literature-and-codes)
 	- [Survey Papers](#survey-papers)
 	- [Physics Systems with Interaction](#physics-systems-with-interaction)
-	- [Intelligent Vehicles & Traffic & Pedestrians](#intelligent-vehicles-traffic-peds)
+	- [Intelligent Vehicles & Traffic & Pedestrians](#intelligent-vehicles-traffic-pedestrians)
 	- [Mobile Robots](#mobile-robots)
 	- [Sport Players](#sport-players)
 	- [Benchmark and Evaluation Metrics](#benchmark-and-evaluation-metrics)
