@@ -109,6 +109,7 @@ Please consider citing our work if you found this repo useful:
 
 ### Survey Papers
 
+- Multimodal Trajectory Prediction: A Survey,2023. \[ [paper](https://arxiv.org/abs/2302.10463)\]
 - Machine Learning for Autonomous Vehicle’s Trajectory Prediction: A comprehensive survey, Challenges, and Future Research Directions, arXiv preprint arXiv:2307.07527, 2023. [[paper](https://arxiv.org/pdf/2307.07527.pdf)]
 - Incorporating Driving Knowledge in Deep Learning Based Vehicle Trajectory Prediction: A Survey, IEEE T-IV, 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100881)]
 - Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, IEEE T-ITS, 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]
