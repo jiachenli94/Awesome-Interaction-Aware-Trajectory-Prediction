@@ -1,5 +1,5 @@
 # Awesome Interaction-Aware Behavior and Trajectory Prediction
-![Awesome](https://awesome.re/badge.svg)![Version](https://img.shields.io/badge/Version-2.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.09-lightgrey.svg)![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github)
+![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-2.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.09-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github)
 
 This is a checklist of state-of-the-art research materials (datasets, blogs, papers and public codes) related to trajectory prediction. Wish it could be helpful for both academia and industry. (Still updating)
 
