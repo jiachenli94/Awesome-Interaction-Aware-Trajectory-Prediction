@@ -161,6 +161,8 @@ Please consider citing our work if you found this repo useful:
 
 ### Intelligent Vehicles & Traffic & Pedestrians
 
+- Diffusion-Based Environment-Aware Trajectory Prediction. arXiv preprint arXiv:2403.11643, 2024. [[paper](https://arxiv.org/abs/2403.11643)]
+- MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction with Neural ODEs, 2023 IEEE Transactions on Intelligent Vehicles. [[paper](https://arxiv.org/abs/2302.00735)] [[code](https://github.com/westny/mtp-go)]
 - MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion, CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf)]
 - Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction, CVPR 2023. [[paper](http://xxx.itp.ac.cn/pdf/2303.16005.pdf)]
 - Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction, CVPR 2023. [[paper](https://chengy12.github.io/files/Bosampler.pdf)] [[code](https://github.com/viewsetting/Unsupervised_sampling_promoting)]
@@ -641,6 +643,7 @@ Please consider citing our work if you found this repo useful:
 - What will Happen Next? Forecasting Player Moves in Sports Videos, ICCV 2017, \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf)\]
 
 ### Benchmark and Evaluation Metrics
+- A Preprocessing and Evaluation Toolbox for Trajectory Prediction Research on the Drone Datasets, arXiv preprint arXiv:2405.00604, 2024. [[paper](https://arxiv.org/abs/2405.00604)] [[code](https://github.com/westny/dronalize)]
 - Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. \[[paper](https://arxiv.org/abs/2203.03057)] \[[code](https://github.com/abduallahmohamed/Social-Implicit)]
 - OpenTraj: Assessing Prediction Complexity in Human Trajectories Datasets, ACCV 2020. \[[paper](https://arxiv.org/abs/2010.00890)] \[[code](https://github.com/crowdbotp/OpenTraj)]
 - Testing the Safety of Self-driving Vehicles by Simulating Perception and Prediction, ECCV 2020. [[paper](https://arxiv.org/abs/2008.06020)]
