@@ -95,6 +95,7 @@ Please consider citing our work if you found this repo useful:
 |           [ForkingPaths](https://next.cs.cmu.edu/multiverse/index.html)            |           people           |         urban / simulation         |     camera     |
 |           [TrajNet++](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge)            |           people           |         urban         |     camera     |
 |[Aschaffenburg Pose Dataset](https://doi.org/10.5281/zenodo.5724486)               |    cyclists / people    |           urban           |         camera         |
+|[Cyclist Top-View Dataset (CTV)](https://www.ifi-mec.tu-clausthal.de/ctv-dataset)               |    cyclists / people    |           urban           |         camera         |
 
 ### Sport Players
 
