@@ -73,6 +73,7 @@ Please consider citing our work if you found this repo useful:
 |           [Argoverse](https://www.argoverse.org/)            |      vehicles / people       |           urban           |     camera / LiDAR     |
 | [TRAF](https://gamma.umd.edu/researchdirections/autonomousdriving/trafdataset)            |      vehicles / buses / cyclists / bikes / people / animals       |           urban           |     camera      |
 |[Aschaffenburg Pose Dataset](https://doi.org/10.5281/zenodo.5724486)               |    cyclists / people     |           urban           |         camera         |
+|      [Songdo Traffic](https://doi.org/10.5281/zenodo.13828383)       |           vehicles           |   urban / intersection    |     camera (drone)     |
 
 ### Pedestrians
 
